@@ -1,0 +1,39 @@
+1. OLTP db-Online transaction processing
+2. OLAP dB-Online analytical processing.
+
+->Oraganizations maintain OLTP db for storing day-to-day transactions
+
+->Oraganizations uses OLAP for data analysis
+
+->The data stored in OLTP is not suitable for analysis. As it stores the current data.
+
+->OLTP is for running business. 
+
+SO, the process of moving OLTP to OLAP is called ETL(Extract transform load)
+
+To maintain OLTP dB
+-> ORACCE
+->SQL
+->SQL SERVER
+-> POSTGRESQL
+-> MONGODB
+
+to main ETL-
+-> DATABRICKS
+->FABRIC
+->SNOWFLAKE DBT 
+
+
+to maintain OLAP dB
+->ORACLE
+->SQL SERVER
+->POSTGRESQL
+-> MONGODB
+->CASSANDRA
+->REDIS
+
+
+For analysis-
+->POWER BI 
+->TABLEAU
+->PYTHON
