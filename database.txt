@@ -1,0 +1,5 @@
+Database- A db is a organized collection of inter related data.
+For example-
+A bank data base stores data related to customers,accounts,transactions
+etc. And university db stores data related to students,
+courses and faculty etc
