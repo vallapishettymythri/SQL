@@ -1,7 +1,0 @@
-SQL-Structured Query Language
-SQL (Structured Query Language) is a standardized, 
-domain-specific programming language used to manage, 
-query, and manipulate data stored in relational database 
-management systems.
-
-Database- A db is a organized collection of inter related data.
