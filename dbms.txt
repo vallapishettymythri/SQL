@@ -1,0 +1,15 @@
+Data base management system- DBMS
+ It is a software used to manage data base.
+ DBMS users can create,read, update, delete data in the data 
+ base. 
+ DMBS is an interfac between user and database.
+
+ Users ---------DBMS----DB
+
+ Types of DBMS- 
+ 1. HDBMS- Hierarchical DBMS
+ 2. NDBMS- Network DBMS
+ 3. RDMS-Relational DBMS
+ 4. ORDBMS- Object Relational DBMS
+
+ HDBMS & NDMS are out dated. 
