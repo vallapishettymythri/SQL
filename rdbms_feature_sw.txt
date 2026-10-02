@@ -1,0 +1,15 @@
+RDBMS Features:
+1. Easy to read and amnipulate the data. 
+2. Less redundancy (duplication of data)
+3. More security
+4. Gurantee data quality
+5. Supports data sharing
+6. Supports transactions.
+
+
+RDBMS softwares:
+ORACLE      oracle corp
+MYSQL       oracle corp
+SQL SERVER  Microsoft
+POSTGRESQL  POSTGRESQL
+DB2         IBM
