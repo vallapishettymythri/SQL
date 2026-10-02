@@ -1,0 +1,24 @@
+RDBMS- 
+RDBMS concepts introduced by edgar Frank.
+E.F.CODD introduced 12 rules called codd rules.
+A db software that supports all rules is called perfect RDBMS.
+
+Information Rule:
+Accoring to information rule data must be organized in tables i.e 
+rows and columns.
+
+Row-is called has record/tuple
+column-filelds attributes
+
+DB-> Collection of tables.
+Table= Collection of rows and columns
+Row- Collection of filed values.
+Columns- Collection of same filed values.
+
+Every table must contain primary key to uniquely identify the
+records.
+
+One table is related to another table using foreign key. 
+To establish relationship btw two tables, take primary key of 
+one table and add it to another table as foreign key. 
+
