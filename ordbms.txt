@@ -1,0 +1,9 @@
+It is a combination of rdms and oops. 
+ORDBMS- rdbms+oops(reusability)
+->RDBMS doesnt support reusability but ordbms supports 
+reusability.
+
+Softwares:
+ORACLE
+SQL SERVER
+POSTGRESQL
