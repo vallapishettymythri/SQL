@@ -1,0 +1,14 @@
+SQL server is a rdbms software from microsoft.
+Organizations uses sql server to manage DB.
+SQL server is used for db development and administration. 
+
+development                 administration
+creating tables             installation of sql server
+creating views              creating db
+Synonyms                    creating logins for users
+sequences                   db backup and restore
+indexes                     db export and import
+procedures                  performance tuning
+functions
+triggers
+writing queries
