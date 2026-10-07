@@ -1,0 +1,15 @@
+Structured query language-
+SQL is a language used to communicate with sql server.
+-Users communicate with sql server by sending commands called queries.
+-A query- Is a command/question given to sql server to perform operations on db.
+-SQL was originally introduced by IBM & intially name of this language was "SEQUEL"
+-SQL is common to all relational DB S/W 
+User--------SSMS-------SQL--------SQLSERVER----DB
+User--------SQLPLUS-----SQL-------ORACLE-------DB
+
+Based on operations over db sql is categorised into 5- sub languages.
+1. DDL - data defination (Create,alter,drop,truncate)
+2. DML- Data manipulation  (Insert,update,delete,merge)
+3. DRL/DQL - Data retrieval/Data query language (select)
+4. TCL- Transaction control language (commit,rollback,save Transaction)
+5. DCL- Data Control language (grant,revoke)
