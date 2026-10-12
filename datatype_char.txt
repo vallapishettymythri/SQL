@@ -1,0 +1,23 @@
+CHAR-
+-Allows character data up to 8000 chars
+- Recommended for fixed lentgh char
+
+In char datatype extra bytes are wasted, so char is not 
+recommended for varible length fields and char is recommended for 
+fixed length fields
+
+VARCHAR(size):
+-Allows charcters data upto 8000 chars.
+- Recommended for variable length fields.
+
+char/varchar allows ascii characters even it allows alphanumeric data.
+
+
+VARCHAR(max):
+-Allows character data upto 2GB
+
+nchar/nvarchar/nvarchar(max):
+-Allows unicode chars (65536) that includes all chars and chars belong to 
+different languages.
+-ascii character occupies 1 byte and unicode occupies 2 byte
+
