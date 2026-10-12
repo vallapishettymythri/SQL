@@ -1,0 +1,29 @@
+Data types in SQL SERVER:
+A data type specifies
+1. Type of the data allowed in a column
+2. Amount of memory allocated for column
+
+Different Data types-
+CHAR- ASCII - char, varchar,varchar(max)
+      UNICODE- nchar,nvarchar,nvarchar(max)
+INTEGER- 
+tinyint
+smallint
+int 
+bigint
+numeric(p)
+
+FLOAT- 
+numerical(p,s)
+decima(p,s)
+
+MONEY- 
+smallmoney
+money 
+
+DATE-
+date 
+time 
+datetime 
+datetime2 
+
