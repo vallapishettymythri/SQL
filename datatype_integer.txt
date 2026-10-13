@@ -1,0 +1,6 @@
+Allows Numbers without decimals
+TYPE                MEMORY              RANGE
+TinyInt                 1               0 to 255
+SMALLINT                2               -2^15 ro 2^15-1
+INT                     4               -2^21 to 2^31-1
+BIGINT                  8               -2^63 to 2^63-1
