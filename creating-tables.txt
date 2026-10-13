@@ -1,0 +1,14 @@
+CREATING TABLES IN SQL SERVER DB:
+CREATE TABLE <tabname>
+(
+    colname datatype(size),
+    colname datatype(size),
+    ---
+)
+
+Rules:
+1. Name should start with alphabet
+2. Name should not contain spaces & special chars but allows _&#
+3. Name can be upto 128 chars
+4. Table  can have 1024 columns
+5. No of rows unlimited
