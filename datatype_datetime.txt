@@ -1,0 +1,8 @@
+Date-Allows only Date
+Time allows only Time
+datetime2- allows both date and time
+->Default date format in sql server is yyyy-mm-dd
+->Default time format hh:mm:ss
+
+DOB Date- 2003-10-5
+LOGIN TIME- 9:30:00
