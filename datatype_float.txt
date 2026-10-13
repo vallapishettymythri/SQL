@@ -1,0 +1,6 @@
+FLOAT Types:
+NUMERIC(P,S)/DECIMAL(P,S):
+Allows NUMERIC with DECIMAL
+P-Precision-> Total No of digits allowed(upto 38)
+S-Scale- No of digits allowed(upto 0 to p)
+If we enter as many as after decimal it is roundoff to the 'scale value'
