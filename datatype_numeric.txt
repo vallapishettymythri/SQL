@@ -1,0 +1,5 @@
+NUMERIC(P)
+Allows numbers without decimals upto 38 Digits
+eg- Phone number- has 10 Digits
+Adhaar Number- 12
+ACCNO-14
