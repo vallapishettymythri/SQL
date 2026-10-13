@@ -1,0 +1,9 @@
+CURRENCY types:
+Currency types are used for fields related to money.
+TYPE                MEMORY              RANGE
+smallmoney          4 bytes             -2,14,748.3648 to 2,14,748.3647
+money               8 bytes             -922,33,7,203,685,477.5808
+
+eg-
+salary-smallmoney
+balance-money
