@@ -1,0 +1,6 @@
+OPERATORS:
+Arithmetic- + - * / %
+Relational- > >= < <= == != 
+Logical- AND OR NOT
+Special - BETWEEN , IN, LIKE, IS , ANY , ALL, EXISTS, PIVOT
+SET- UNION, UNION ALL, INTERSECT, EXCEPT
