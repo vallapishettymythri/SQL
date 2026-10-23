@@ -1,0 +1,12 @@
+WHERE CLAUSE:
+Where clause is used to sleect specific row/rows from table.
+
+SELECT COL1,COL2,---
+FROM TABLENAME
+WHERE CONDITION
+
+Condition- 
+Relational expression that returns TRUE/FALSE
+OP must be any operator => <= < > =!
+If condition=True Row is selected,
+    condition=False row is not selected
