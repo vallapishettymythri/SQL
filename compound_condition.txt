@@ -1,0 +1,4 @@
+Compound condition-
+Multiple conditions combined with AND / OR operators.
+WHERE COND1 AND COND2
+WHERE COND1 OR COND2 
