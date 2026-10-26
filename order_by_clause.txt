@@ -1,0 +1,12 @@
+Order by clause:
+Order by clause is used to sort table data.
+Sorting is based on one or more clauses.
+We can sort either in ascending or in descending order.
+Default order is ascending.
+
+syntax:
+SELECT columns
+FROM TABLE name
+[WHERE condition]
+ORDER BY col1 ASC/DESC, col2....
+
