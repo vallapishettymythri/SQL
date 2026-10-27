@@ -1,0 +1,5 @@
+Distinct clause-
+Distinct clause eliminates duplicates from query. It means 
+gives unique values.
+
+SELECT DISTINCT col FROM tablename
