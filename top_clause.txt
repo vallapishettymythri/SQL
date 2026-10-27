@@ -1,0 +1,7 @@
+Top Clause-
+Top clause returns top n rows from table. 
+
+SELECT [DISTINCT] top <n> column
+FROM tabname
+[WHERE COND]
+[ORDER BY]
