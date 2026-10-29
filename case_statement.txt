@@ -1,0 +1,23 @@
+CASE STATEMENT-
+Case STATEMENTis used to implement IF-THEN-ELSE.
+Using case statement we can return values based on condition.
+Case statements are 2 types
+1. Simple case
+2.Searched case
+
+Simple case-
+Use simple case when condition based on '=' operator
+
+CASE Colname
+WHEN value1 THEN return expr1
+WHEN value2 THEN return expr2
+---
+ELSE return expr
+END
+
+Searched case- 
+WHEN cond1 THEN return expr1
+WHEN cond2 THEN return expr2
+--
+ELSE return expr
+END
