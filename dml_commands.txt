@@ -1,0 +1,24 @@
+Data Manipulation Language-
+DML commands acts on table data.
+TABLE= STRUCTURE (COLS) + DATA(ROWS)
+        DDL                 DML
+All DML Commands are auto commited.
+Execute a command to stop auto commit.
+SET IMPLICIT_TRANSACTIONS ON 
+To save operations execute COMMIT 
+TO cancel the operation execute ROLLBACK
+
+UPDATE()-
+Command used to modify table data.
+Using Update we can update all rows or sepecific rows.
+Using update we can update single colimn or multiple columns.
+
+UPDATE tabename
+SET colname=value,
+colname=value....
+
+DELETE()-
+Command used to delete row/rows from table.
+We can delete all rows or specific rows. 
+
+DELETE FROM tabname [WHERE COND]
