@@ -1,0 +1,29 @@
+DDL commands- CREATE ALTER,DROP, TRUNCATE
+DDL commands acts on table structure.
+
+SP_help EMP ---table structure
+
+ALTER-
+command used to modify table structure. 
+1. Adding columns
+2. Dropping columns
+3. Modifying columns--> changing datatype, changing size.
+
+Adding column-
+ALTER TABLE <tabname> ADD colname datatype(size)....
+->after adding by default the new column is filled with nulls, 
+to insert data into new column use update command
+
+Dropping column-
+ALTER TABLE<tabname> DROP column col1,col2...
+
+Modifying column(chaging datatype)-
+ALTER TABLE <tabname> ALTER COLUMN colname datatype(size)
+
+Drop command:
+Drops table structure along with data.
+DROP Table<tab name>
+'
+Truncate command-
+Deletes data from table but keeps structure.
+TRUNCATE TABLE<tabname>
