@@ -1,0 +1,11 @@
+Group by-clause:
+Group by clause is used to grouprows based on one or more columns to calculate max,min,sum,avg,
+count for each group.
+
+detailed data -----group  by----->Summarized data
+query:
+SELECT columns FROM tabname
+[WHERE cond]
+GROUP BY col1,col2...
+[HAVING cond]
+[ORDER BY col ASEC/DESC]
