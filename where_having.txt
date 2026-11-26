@@ -1,0 +1,10 @@
+Where vs having
+Where-
+1.Selects specific rows
+2. Confitions applied before groupby
+3.Use where clause if cond doesn't contain aggregate function
+
+Having-
+1.Selects specific groups
+2.Conditions applied after groupby
+3.Use having clause if condition contains agreegate function.
